@@ -62,19 +62,3 @@ Below are some images demonstrating the project:
    
    ![LED Matrix Display](image/doc2.jpg)
 
-## Contribution
-We welcome contributions from everyone. Please create a pull request or submit an issue to fix bugs or add new features.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Code Explanation
-Here is a brief explanation of the main parts of the code:
-
-### Libraries
-```cpp
-#include <MD_Parola.h>
-#include <MD_MAX72xx.h>
-#include <SPI.h>
-#include <WiFi.h>
-#include <WebServer.h>
