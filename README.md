@@ -1,4 +1,4 @@
-# Score Badminton
+# Badminton Score
 
 This project uses an ESP32 DevKit V1 and an LED matrix MAX7219 to display badminton scores in real-time.
 
