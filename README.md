@@ -22,7 +22,7 @@ This project aims to create a scoreboard system for badminton games using an ESP
 
 ## Requirements
 - ESP32 DevKit V1
-- LED matrix MAX7219
+- LED matrix MAX7219 4 in 1
 - Jumper wires
 - Arduino IDE software
 
