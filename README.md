@@ -30,7 +30,7 @@ This project aims to create a scoreboard system for badminton games using an ESP
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/score-badminton.git
+    git clone https://github.com/ibnuhibbann/Badminton-Score-ESP32-LED-Matrix.git
     ```
 2. Install the required libraries in the Arduino IDE:
     - `MD_Parola`
