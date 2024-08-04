@@ -8,7 +8,7 @@ This project uses an ESP32 DevKit V1 and an LED matrix MAX7219 to display badmin
 3. [Requirements](#requirements)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Documentation Video](#documentation-video)
+6. [Documentation Images](#documentation-images)
 7. [Contribution](#contribution)
 8. [License](#license)
 
@@ -51,8 +51,16 @@ This project aims to create a scoreboard system for badminton games using an ESP
 3. Open a web browser and navigate to the IP address displayed on the LED matrix.
 4. Use the web interface to adjust the scores.
 
-## Documentation Video
-A video demonstration of the project is available [here](video/video.mp4).
+## Documentation Images
+Below are some images demonstrating the project:
+
+1. **Web Server Interface for Score Adjustment:**
+   
+   ![Web Server Interface](image/doc1.png)
+
+2. **LED Matrix Displaying the Score:**
+   
+   ![LED Matrix Display](image/doc2.jpg)
 
 ## Contribution
 We welcome contributions from everyone. Please create a pull request or submit an issue to fix bugs or add new features.
